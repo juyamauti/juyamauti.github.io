@@ -1,1 +1,0 @@
-# juyamauti.github.io
