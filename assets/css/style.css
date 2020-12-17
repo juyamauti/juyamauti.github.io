@@ -583,10 +583,15 @@ section h3.section-subheading {
 /*------------------------------------------------
  8. Services
 -------------------------------------------------*/
-.single-service {
+#services {
   background-color: #f4f4f4;
+}
+
+.single-service {
+  background-color: #fff;
   border: 2px solid transparent;
   padding: 1px 7px;
+  margin-bottom: 30px;
 }
 
 .single-service:hover {
